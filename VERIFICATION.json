@@ -1,0 +1,21 @@
+{
+  "passed_script_syntax_checks": 16,
+  "existing_game_scripts_unchanged": true,
+  "privacy_file_unchanged": true,
+  "royal_payload_roundtrip": true,
+  "android_update_signature_and_size": true,
+  "index_size_bytes": 7611929,
+  "index_sha256": "a9c863bbdcbdee6af8cf3b2ce7e0d3523054238b95f5115c7511cddd9154af96",
+  "browser_checks": [
+    "open royal edition",
+    "guest local access",
+    "open chess center",
+    "return to original",
+    "remember guest after reopening"
+  ],
+  "limitations": [
+    "WebGL disabled in preview browser; 3D match rendering not verified",
+    "online Supabase settings are placeholders",
+    "installed Android app not directly tested"
+  ]
+}
